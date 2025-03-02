@@ -2,4 +2,4 @@
 
 # Brainstorming
 
-![alt text](brainstorming/model-brainstorming.drawio.png)
+![alt text](model-brainstorming.drawio.png)
