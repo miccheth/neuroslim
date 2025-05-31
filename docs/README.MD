@@ -4,6 +4,6 @@
 
 ![alt text](model-brainstorming.drawio.png)
 
-# Brainstorming Diagram
+# Brainstorming Diagram #1
 
 ![alt text](model-alpha.png)
