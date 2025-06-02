@@ -10,4 +10,4 @@
 
 # Brainstorming Diagram #2
 
-![alt text](model-alpha#2.drawio.svg)
+![alt text](model-alpha#2.svg)
