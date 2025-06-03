@@ -58,3 +58,5 @@ pytestdebug.log
 dist/
 build/
 site/
+
+.bkp
