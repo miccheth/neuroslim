@@ -1,5 +1,7 @@
 # 3sapiens: brainstorming
 
-# 1
+## Diagram Snapshot #1
 
-![alt text](brainstorming/model-alpha-2.drawio.png)
+![Image](/docs/brainstorming/diagram-snapshot-1.png)
+
+## Diagram Snapshot #2
