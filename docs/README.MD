@@ -8,4 +8,8 @@
 
 ![Image](/docs/brainstorming/diagram-snapshot-2.png)
 
+## Diagram - Snapshot #3
+
+![Image](/docs/brainstorming/diagram-snapshot-3.png)
+
 ## Artificial Mind distribuited under P2P network - Snapshot #1
