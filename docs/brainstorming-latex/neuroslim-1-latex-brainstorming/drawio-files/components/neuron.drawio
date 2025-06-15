@@ -1,0 +1,80 @@
+<mxfile host="Electron" modified="2024-09-15T13:29:17.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="OpyfUYbtX8M5VxEdu3Pn" version="24.2.5" type="device">
+  <diagram name="Pagina-1" id="w_FWv7704ixgWOhtn0g2">
+    <mxGraphModel dx="567" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JIxDRnMV626ahIkKmDpw-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="310" y="560" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-2" value="Core" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="459" y="540" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-3" value="Input&lt;div&gt;Agent&amp;nbsp;&lt;/div&gt;&lt;div&gt;Handler&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="319" y="660" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JIxDRnMV626ahIkKmDpw-4" target="JIxDRnMV626ahIkKmDpw-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="640" />
+              <mxPoint x="458" y="655" />
+              <mxPoint x="465" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-17" value="Synpatic" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JIxDRnMV626ahIkKmDpw-16">
+          <mxGeometry x="-0.1935" relative="1" as="geometry">
+            <mxPoint x="7" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-4" value="&#39;c&#39;,&lt;div&gt;Input Agent: X&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="378" y="610" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;" edge="1" parent="1" source="JIxDRnMV626ahIkKmDpw-3" target="JIxDRnMV626ahIkKmDpw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-6" value="Generate Neuron" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JIxDRnMV626ahIkKmDpw-5">
+          <mxGeometry x="-0.6095" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.044;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JIxDRnMV626ahIkKmDpw-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="215" y="700" as="sourcePoint" />
+            <mxPoint x="265" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-12" value="Input Agent X" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JIxDRnMV626ahIkKmDpw-7">
+          <mxGeometry x="0.3266" relative="1" as="geometry">
+            <mxPoint x="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.044;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="722.5" as="sourcePoint" />
+            <mxPoint x="319" y="707.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-13" value="Input Agent Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JIxDRnMV626ahIkKmDpw-9">
+          <mxGeometry x="-0.1935" y="2" relative="1" as="geometry">
+            <mxPoint x="15" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.044;entryY=0.278;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="745" as="sourcePoint" />
+            <mxPoint x="319" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-14" value="Input Agent..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JIxDRnMV626ahIkKmDpw-10">
+          <mxGeometry x="-0.2581" y="1" relative="1" as="geometry">
+            <mxPoint x="8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JIxDRnMV626ahIkKmDpw-15" value="&#39;255&#39;,&lt;div&gt;Input Agent: Y&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="435" y="675" width="60" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
