@@ -1,0 +1,5 @@
+Todo:
+
+1. Second Brain
+2. P2P Distributed
+3. Native Token
